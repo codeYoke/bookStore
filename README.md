@@ -144,7 +144,7 @@ function isExists() {
 
 ### Login
 
-![image](https://github.com/codeYoke/my-picture/blob/master/bookStore/book2.png)
+![image](https://github.com/codeYoke/my-picture/blob/master/bookStore/book1.png)
 
 **LoginServlet中doGet方法：**
 
